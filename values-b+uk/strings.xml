@@ -10,7 +10,7 @@
     <string name="menu_settings">Налаштування</string>
     <string name="menu_error_require_provider_button">Налаштування постачальника</string>
     <string name="menu_error_require_live_but_no_playlist_title">Не вдалося завантажити список відтворення з каналами</string>
-    <string name="menu_error_require_live_but_no_playlist_text">Неможливо досягти налаштованого постачальника чи списку відтворення. Будь ласка, перевірте налаштування провайдера, і якщо вони здадуться нормальними, зверніться до постачальника послуг IPTV.</string>
+    <string name="menu_error_require_live_but_no_playlist_text">Неможливо досягти налаштованого постачальника чи списку відтворення. Будь ласка, перевірте налаштування постачальника, і якщо вони здадуться нормальними, зверніться до постачальника послуг IPTV.</string>
 
     <string name="browse_description_series_number">епізод</string>
     <string name="browse_description_header_live">Прямі канали</string>
@@ -38,211 +38,211 @@
     <string name="in_n_minutes">через 10 хвилин</string>
     <string name="player_episode_details_season">сезон</string>
     <string name="player_episode_details_series">епізод</string>
-    <string name="player_warn_turn_off">Вимкнуться</string>
+    <string name="player_warn_turn_off">Вимкнеться</string>
     <string name="player_press_to_cancel">Натисніть OK, щоб скасувати</string>
-    <string name="player_touch_to_cancel">Сенсорний екран для скасування</string>
+    <string name="player_touch_to_cancel">Торкніться екрану, щоб скасувати</string>
     <string name="player_state_no_media_ended">Потік не вибрано (завершено)</string>
     <string name="player_state_buffering">Буферизація</string>
 
-    <string name="error_this_video_requires_external_player">Для отримання найкращого досвіду це відео потребує зовнішнього гравця</string>
+    <string name="error_this_video_requires_external_player">Для кращого відтворення цього відео потрібен зовнішній програвач</string>
     <string name="error_stream_not_reachable_no_connect">Потік недоступний (неможливо підключитися). Зверніться до свого постачальника послуг</string>
     <string name="error_stream_not_reachable_no_resource">Потік недоступний. Зверніться до свого постачальника послуг</string>
     <string name="error_stream_not_reachable_forbidden">Доступ заборонено (неправильний ключ?). Зверніться до свого постачальника послуг</string>
     <string name="error_archive_not_supported_this_channel">Ваш постачальник не надає архівів для цього каналу</string>
-    <string name="error_search_nothing_found">Нічого не відповідає вашому пошуковому запиту</string>
+    <string name="error_search_nothing_found">За вашим пошуковим запитом нічого не знайдено</string>
     <string name="error_require_file_permission_grant_and_try_again">Необхідний доступ до сховища. Надайте доступ і повторіть операцію</string>
 
-    <string name="info_teleguide_loaded">Телегід (EPG) завантажено: записи</string>
+    <string name="info_teleguide_loaded">Програму передач (EPG) завантажено: записи</string>
 
     <string name="player_menu_select_channel_title">Інший канал</string>
     <string name="player_menu_select_archive_title">Інше відео</string>
     <string name="player_menu_set_pause_on_title">Призупинити відтворення</string>
     <string name="player_menu_set_pause_off_title">Відновити відтворення</string>
-    <string name="player_menu_set_pause_on_details">грати</string>
+    <string name="player_menu_set_pause_on_details">відтворюється</string>
     <string name="player_menu_set_pause_off_details">призупинено</string>
-    <string name="player_menu_show_timetable_title">Розклад</string>
+    <string name="player_menu_show_timetable_title">Програма передач</string>
     <string name="player_menu_playback_parameters_title">Параметри</string>
     <string name="player_menu_playback_parameters_speed">Швидкість відтворення</string>
     <string name="player_menu_aspect_ratio_title">Співвідношення сторін</string>
-    <string name="player_menu_aspect_ratio_fit_details">підходить до екрану</string>
+    <string name="player_menu_aspect_ratio_fit_details">втиснути в екран</string>
     <string name="player_menu_aspect_ratio_fill_details">заповнити по ширині</string>
     <string name="player_menu_aspect_ratio_zoom_details">масштабування до екрана</string>
-    <string name="player_menu_aspect_ratio_zoom_in_details">зменшити масштаб екрана (обрізати частину)</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">збільшити понад екран (обрізати частину)</string>
     <string name="player_menu_favorite_on_details">Додати в обране</string>
-    <string name="player_menu_favorite_off_details">Видалити з вибраного</string>
+    <string name="player_menu_favorite_off_details">Вилучити з обраного</string>
     <string name="player_menu_timeshift">Зсув у часі</string>
-    <string name="player_menu_timeshift_on_details">Перезапустіть відео</string>
-    <string name="player_menu_timeshift_off_details">Назад до життя</string>
-    <string name="player_menu_pip_title">Зображення в картині</string>
-    <string name="player_menu_pip_on_details">Вийдіть із режиму зображення в картинці</string>
-    <string name="player_menu_pip_swap_details">Замінити основний канал і PiP один</string>
-    <string name="player_menu_last_channel">Останній канал</string>
+    <string name="player_menu_timeshift_on_details">Перезапустити відео</string>
+    <string name="player_menu_timeshift_off_details">Повернутись до "живого ефіру"</string>
+    <string name="player_menu_pip_title">Картинка у картинці</string>
+    <string name="player_menu_pip_on_details">Вийти з режиму "картинка у картинці"</string>
+    <string name="player_menu_pip_swap_details">Змінити основний канал та PiP</string>
+    <string name="player_menu_last_channel">Попередній канал</string>
 
-    <string name="settings_player_pip_codec">Вибір кодеків зображення в картинці</string>
-    <string name="settings_player_pip_position_tl">ліворуч</string>
+    <string name="settings_player_pip_codec">Вибір кодеків для "картинка у картинці"</string>
+    <string name="settings_player_pip_position_tl">ліворуч вгорі</string>
     <string name="settings_player_pip_position_tr">праворуч вгорі</string>
-    <string name="settings_player_pip_position_bl">внизу ліворуч</string>
-    <string name="settings_player_pip_position_br">внизу праворуч</string>
+    <string name="settings_player_pip_position_bl">ліворуч внизу</string>
+    <string name="settings_player_pip_position_br">праворуч внизу</string>
     <string name="settings_channel_sort_mode">Сортувати канали за</string>
-    <string name="settings_channel_sort_mode_freq">частота (спочатку вибрані, потім найчастіші канали)</string>
-    <string name="settings_channel_sort_mode_prov">замовлення з списку відтворення постачальника</string>
-    <string name="settings_channel_sort_mode_name">ім\'я (спочатку вибрано, потім за алфавітом)</string>
-    <string name="settings_run_at_boot">Запустіть програму на завантаженні пристрою</string>
+    <string name="settings_channel_sort_mode_freq">частотою (спочатку обрані, потім найвживаніші канали)</string>
+    <string name="settings_channel_sort_mode_prov">порядком зі списку відтворення постачальника</string>
+    <string name="settings_channel_sort_mode_name">назвою (спочатку обрані, потім за алфавітом)</string>
+    <string name="settings_run_at_boot">Запускати програму коли вмиається пристрій</string>
 
     <string name="hint_title">Підказка</string>
-    <string name="hint_long_tap">Ви можете довго торкнутися елемента списку, щоб отримати розширений опис (якщо можливо).</string>
-    <string name="hint_fav_sorting">Додаток сортує канали за частотою спостереження. Канали, позначені як улюблені, завжди будуть у верхній частині. Ви можете вимкнути автоматичне сортування, увімкнувши замовлення каналу провайдера, однак фільтр обраних не буде доступним.</string>
-    <string name="hint_video_codecs">Якщо джерело програється погано, ви можете спробувати збільшити розмір буфера в налаштуваннях, перейти до іншого декодера потоку (апаратне або програмне забезпечення), або якщо щось не вдалося, налаштуйте використання зовнішнього програвача для відтворення.</string>
-    <string name="hint_auto_turn_off">Ви можете налаштувати автоматичне вимикання потоку після деякого простою (корисно, коли тарифікується за хвилину). Idle означає, що не використовуються дії гравця (наприклад, меню, пошук, пауза тощо).</string>
+    <string name="hint_long_tap">При тривалому натисканні на елемент списку з'являється розширений опис (якщо він доступний).</string>
+    <string name="hint_fav_sorting">Додаток сортує канали за частотою проглядання. Канали, позначені як улюблені, завжди будуть вгорі. Ви можете вимкнути автоматичне сортування, задіявши порядок каналів від постачальника, але тоді категорія обраних стане не доступною.</string>
+    <string name="hint_video_codecs">Якщо джерело програється погано, можете спробувати збільшити розмір буфера в налаштуваннях, перейти до іншого декодера потоку (апаратного чи програмного), або ж взагалі налаштувати використання зовнішнього програвача для відтворення.</string>
+    <string name="hint_auto_turn_off">Ви можете налаштувати автоматичне вимикання потоку після певного простою (доречно при похвилинній оплаті). Простій означає, що не виконуються дії з програвачем (наприклад: запуск меню, перемотування, пауза тощо).</string>
 
     <string name="settings_provider_select_type_intro1">ПРИМІТКА. Для використання цієї програми потрібен постачальник OTT / IPTV.</string>
     <string name="settings_provider_select_type_intro2">Програма працює лише зі списками відтворення, наданими користувачем.</string>
     <string name="settings_provider_select_apply">Застосувати</string>
-    <string name="settings_provider_select_return">Повернення</string>
+    <string name="settings_provider_select_return">Повернутись</string>
 
-    <string name="settings_provider_select_status_error">Помилка конфігурації. Не вдалося завантажити дані</string>
+    <string name="settings_provider_select_status_error">Помилка налаштування. Не вдалося завантажити дані</string>
     <string name="settings_provider_select_status_success">Налаштування успішно застосовано</string>
 
     <string name="settings_provider_select_action_playlist">перевірка списку відтворення</string>
-    <string name="settings_provider_select_action_live">завантаження живих каналів</string>
-    <string name="settings_provider_select_error_playlist">список відтворення вважається недійсним або не містить підтримуваних каналів</string>
-    <string name="settings_provider_select_error_live">не містить підтримуваних каналів. Перевірте ім\'я користувача / ключ / пароль / url.</string>
+    <string name="settings_provider_select_action_live">завантажуються канали "живих ефірів"</string>
+    <string name="settings_provider_select_error_playlist">список відтворення не коректний або не містить підтримуваних каналів</string>
+    <string name="settings_provider_select_error_live">не містить підтримуваних каналів. Перевірте ім'я користувача/ключ/пароль/url.</string>
 
-    <string name="archive_auto_seek_no">Ні, дивіться з самого початку</string>
-    <string name="future_show_sheet_add_wl_title">Нагадайте, щоб переключитися на канал</string>
-    <string name="future_show_sheet_search_title">Пошук в архівах</string>
-    <string name="future_show_sheet_search_none">Це відео не було знайдено у архівах вашого постачальника</string>
-    <string name="notify_live_sheet_title">Відео, яке ви позначили для перегляду пізніше, зараз у мережі</string>
-    <string name="notify_live_sheet_text">Перейдіть, щоб переглянути відео</string>
-    <string name="feature_requires_premium">Ця функція вимагає премії</string>
+    <string name="archive_auto_seek_no">Розпочати з самого початку</string>
+    <string name="future_show_sheet_add_wl_title">Нагадайти мені перемкнути на канал</string>
+    <string name="future_show_sheet_search_title">Пошук у архівах</string>
+    <string name="future_show_sheet_search_none">Це відео не знайдено у архівах вашого постачальника</string>
+    <string name="notify_live_sheet_title">Відео, яке ви позначили для пізнішого перегляду, зараз у ефірі</string>
+    <string name="notify_live_sheet_text">Перемкнути на перегляд відео</string>
+    <string name="feature_requires_premium">Ця функція потребує преміуму</string>
     <string name="feature_requires_restart">Потрібно перезапустити програму</string>
-    <string name="no_teleguide">Відсутній телегід</string>
-    <string name="vod_root_title_playlist">Спеціальний список відтворення</string>
-    <string name="play_switch_codec">Перемикач кодека</string>
-    <string name="play_switch_codec_details">Завантажують потік через інший декодер</string>
-    <string name="play_switch_codec_hard">Використовуйте апаратні кодеки</string>
-    <string name="play_switch_codec_vlc">Використовуйте програмне забезпечення VLC</string>
+    <string name="no_teleguide">Відсутня програма передач EPG</string>
+    <string name="vod_root_title_playlist">Власний список відтворення</string>
+    <string name="play_switch_codec">Змінити кодек</string>
+    <string name="play_switch_codec_details">Завантажити потік через інший декодер</string>
+    <string name="play_switch_codec_hard">Використати апаратні кодеки</string>
+    <string name="play_switch_codec_vlc">Використовуйте програмні VLC</string>
     <string name="play_switch_codec_ext">Відкрити у зовнішньому програвачі</string>
-    <string name="disk_is_full">Зберігання заповнене. Очистіть місце.</string>
-    <string name="channel_more_hide_desc">Видалити зі списку</string>
-    <string name="hud_short_volume">Обсяг</string>
+    <string name="disk_is_full">Сховище переповнене. Звільніть трохи місця.</string>
+    <string name="channel_more_hide_desc">Вилучити зі списку</string>
+    <string name="hud_short_volume">Гучність</string>
     <string name="hud_short_bright">Яскравість</string>
 
-    <string name="settings_provider">Провайдер</string>
-    <string name="settings_media_library">Медіа-бібліотека</string>
-    <string name="settings_media_library_dnla">Сканування джерел UPnP / DNLA в локальній мережі</string>
+    <string name="settings_provider">Постачальний послуг</string>
+    <string name="settings_media_library">Медіатека</string>
+    <string name="settings_media_library_dnla">Сканування джерел UPnP/DNLA у локальній мережі</string>
 
-    <string name="settings_player">Гравець</string>
-    <string name="settings_player_hide_ui">Сховати накладання інтерфейсу користувача у відтворенні</string>
+    <string name="settings_player">Програвач</string>
+    <string name="settings_player_hide_ui">Приховувати інтерфейс керування відео через</string>
     <string name="settings_player_resize_mode">Режим масштабування відео</string>
-    <string name="settings_player_resize_mode_fit">Підігнати до екрана</string>
-    <string name="settings_player_resize_mode_fill">Розширити до ширини екрана</string>
-    <string name="settings_player_resize_mode_zoom">Масштабування до екрана</string>
-    <string name="settings_player_resize_mode_zoom_in">Зменшення масштабу екрана</string>
-    <string name="settings_player_auto_stop_live">Автоматичне вимкнення трансляції</string>
+    <string name="settings_player_resize_mode_fit">Втиснути у екран</string>
+    <string name="settings_player_resize_mode_fill">Розтягнути до ширини екрану</string>
+    <string name="settings_player_resize_mode_zoom">Збільшити до екрану</string>
+    <string name="settings_player_resize_mode_zoom_in">Збільшити понад екран</string>
+    <string name="settings_player_auto_stop_live">Автоматичне вимкнення трансляції через</string>
 
     <string name="settings_extended">Розширені налаштування</string>
-    <string name="settings_extended_hide_adult">Сховати категорії дорослих</string>
-    <string name="settings_extended_auto_start_last_channel">Автоматичний запуск останнього відтвореного каналу</string>
-    <string name="settings_schedule_epg_reload">Перезавантажити телевізор EPG ...</string>
+    <string name="settings_extended_hide_adult">Приховати категорії дорослих</string>
+    <string name="settings_extended_auto_start_last_channel">Автоматичний запуск останнього проглянутого каналу</string>
+    <string name="settings_schedule_epg_reload">Перезавантажити телепрограму EPG ...</string>
 
-    <string name="settings_visual">Візуальний стиль</string>
+    <string name="settings_visual">Зовнішній вигляд</string>
 
     <string name="settings_live_quick_channel_switch_delay">Затримка перед швидким перемиканням каналів</string>
     <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>перемикання миттєво</item>
+        <item>перемикати миттєво</item>
         <item>дозволити продовжити вибір каналу на одну секунду</item>
-        <item>нормальний (2 секунди для подальшого вибору)</item>
-        <item>повільно (5 секунд для подальшого вибору)</item>
+        <item>нормальна (2 секунди на вибір)</item>
+        <item>повільна (5 секунд на вибір)</item>
     </string-array>
 
-    <string name="settings_player_buffer_size">Розмір буфера широкомовної передачі</string>
+    <string name="settings_player_buffer_size">Розмір буфера трансляції</string>
     <string-array name="settings_player_buffer_size_names">
-        <item>немає буфера (мінімальний обсяг пам\'яті)</item>
-        <item>стандарт</item>
-        <item>збільшено</item>
+        <item>немає буфера (використовується мінімум пам'яті)</item>
+        <item>стандартний</item>
+        <item>збільшений</item>
         <item>великий (поганий інтернет, поганий потік)</item>
-        <item>величезний (високе використання пам\'яті для дуже поганого стану)</item>
+        <item>величезний (значне використання пам'яті для дуже поганих умов)</item>
     </string-array>
 
     <string name="settings_show_clock_in_player_always">Показувати поточний час під час перегляду відео</string>
 
     <string name="settings_font_style">Розмір тексту</string>
     <string-array name="settings_font_style_names">
-        <item>Малий</item>
-        <item>Звичайний</item>
-        <item>Великий</item>
-        <item>Величезний</item>
-        <item>Гігант (може приховати деякі параметри)</item>
+        <item>дрібний</item>
+        <item>нормальний</item>
+        <item>великий</item>
+        <item>величезний</item>
+        <item>гігантський (може приховувати деякі параметри)</item>
     </string-array>
 
-    <string name="settings_palette_style">Схема палітри кольорів</string>
+    <string name="settings_palette_style">Колірна схема</string>
 
     <string name="settings_ui_screen_margins">Поля екрана</string>
-    <string name="settings_ui_language">Мова (якщо не встановлено, використовується типово)</string>
+    <string name="settings_ui_language">Мова (якщо не встановлено, використовується системна)</string>
 
     <string name="settings_codec">Налаштування кодеків</string>
-    <string name="settings_codec_hard">Завжди використовуйте апаратні кодеки</string>
-    <string name="settings_codec_soft_vlc">Завжди використовуйте програмні кодеки VLC</string>
-    <string name="settings_codec_external">Завжди використовуйте зовнішній програвач</string>
+    <string name="settings_codec_hard">Завжди використовувати апаратні кодеки</string>
+    <string name="settings_codec_soft_vlc">Завжди використовувати програмні кодеки VLC</string>
+    <string name="settings_codec_external">Завжди використовувати зовнішній програвач</string>
 
-    <string name="settings_epg">Телегід ЕПГ</string>
+    <string name="settings_epg">Телепрограма EPG</string>
 
     <string name="settings_external_player">Зовнішній програвач</string>
     
     <string name="settings_premium">Преміум</string>
-    <string name="settings_premium_source_purchase">Придбано премію</string>
-    <string name="settings_premium_source_subscription">Підписку на премію</string>
-    <string name="settings_premium_source_unknown">Преміум не ввімкнено</string>
-    <string name="settings_premium_what_included">Докладніше про функції преміум-класу ...</string>
-    <string name="settings_premium_what_included_1">Режим зображення в картинці під час перегляду потоку в прямому ефірі</string>
-    <string name="settings_premium_what_included_3">Автоматичне перемикання частоти кадрів для відповідності відео</string>
+    <string name="settings_premium_source_purchase">Придбано преміум</string>
+    <string name="settings_premium_source_subscription">Підписку на преміум оформлено</string>
+    <string name="settings_premium_source_unknown">Преміум не увімкнено</string>
+    <string name="settings_premium_what_included">Докладніше про преміум-функції...</string>
+    <string name="settings_premium_what_included_1">Режим картинка у картинці під час перегляду наживо</string>
+    <string name="settings_premium_what_included_3">Автоматичне підлаштування частоти кадрів</string>
     <string name="settings_premium_what_included_4">Керування швидкістю відтворення для архівів</string>
 
-    <string name="settings_premium_toggles_try_afr">Автоматичне перемикання частоти кадрів для відповідності відео</string>
-    <string name="settings_premium_toggles_try_afr_toast">Поточне відображення підтримує частоту оновлення</string>
+    <string name="settings_premium_toggles_try_afr">Автоматично змінювати частоти кадрів для відповідності відео</string>
+    <string name="settings_premium_toggles_try_afr_toast">Даний дисплей підтримує частоту кадрів</string>
 
-    <string name="settings_premium_toggle_btn_title">Увімкнути функції преміум-класу</string>
-    <string name="settings_premium_toggle_btn_sub_add">Підписатися</string>
-    <string name="settings_premium_toggle_btn_sub_add_desc">Включити премію, підписавшись на невеликі періодичні платежі</string>
+    <string name="settings_premium_toggle_btn_title">Увімкнути преміум-функції</string>
+    <string name="settings_premium_toggle_btn_sub_add">Підписатись</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Увімкнути преміум, підписавшись на невеликі періодичні платежі</string>
     <string name="settings_premium_toggle_btn_buy_add">Придбати</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">Включити премію за допомогою одного платежу</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads">Не купуйте рекламний пакет (також входить до всіх пакетів Premium)</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Вимкнути оголошення назавжди за допомогою одного платежу</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Увімкнути преміум одним платежем</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">Придбати пакет "без реклами" (входить до всіх пакетів Premium)</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Вимкнути рекламу назавжди одним платежем</string>
     
-    <string name="setting_list_view_title">Як відображати списки</string>
+    <string name="setting_list_view_title">Як показувати списки</string>
     <string name="setting_list_view1">простий список</string>
     <string name="cfg_play_deny_buffer">Не показувати статус буферизації</string>
-    <string name="copied_clipboard">Копіюється в буфер обміну</string>
+    <string name="copied_clipboard">Скопійовано до буферу обміну</string>
     <string name="cfg_play_action_menu">відкрити меню</string>
-    <string name="cfg_play_action_timetable">відкрити розклад</string>
+    <string name="cfg_play_action_timetable">відкрити програму передач</string>
     <string name="cfg_play_action_prev">перейти до попереднього каналу</string>
     <string name="cfg_play_action_next">перейти до наступного каналу</string>
-    <string name="cfg_play_action_last">перейти до останнього відтвореного каналу</string>
-    <string name="cfg_play_action_title">Налаштуйте пульт дистанційного керування</string>
-    <string name="cfg_play_action_btn_archive_as_live">Використовуйте таку ж налаштування під час перегляду архівів (вимкніть пошук за допомогою лівої та правої кнопок)</string>
-    <string name="cfg_trans_wind">Використовуйте прозорий інтерфейс</string>
+    <string name="cfg_play_action_last">перейти до останнього проглянутого каналу</string>
+    <string name="cfg_play_action_title">Налаштувати пульт дистанційного керування</string>
+    <string name="cfg_play_action_btn_archive_as_live">Використовувати ці ж кнопки при перегляді архівів (вимкнеться перемотування кнопками вліво та вправо)</string>
+    <string name="cfg_trans_wind">Використовувати прозорий інтерфейс</string>
 
-    <string name="do_not_show">не показуй</string>
+    <string name="do_not_show">не показувати</string>
     <string name="android_not_genuine">Покупки можуть не працювати на вашому пристрої.</string>
-    <string name="menu_error_require_status_archive_text">Архівні дані ще недоступні. Якщо це затягується протягом тривалого часу, це зазвичай означає, що немає даних телепрограм (EPG). У цьому випадку ви можете запланувати перезавантаження EPG в налаштуваннях або шукати кращі джерела EPG і налаштувати їх.</string>
-    <string name="spread_title">Подобається додаток? Поширювати Слово!</string>
-    <string name="spread_btn_rate">Оцініть додаток з п\'ятьма зірками</string>
+    <string name="menu_error_require_status_archive_text">Архівні дані ще недоступні. Якщо вони довго не з'являтимуться, зазвичай це означає, що телепрограма (EPG) не доступна. У цьому випадку ви можете запланувати перезавантаження EPG в налаштуваннях або шукати кращі джерела EPG і налаштувати їх.</string>
+    <string name="spread_title">Подобається додаток? Розкажіть про нього!</string>
+    <string name="spread_btn_rate">Оцініть додаток п'ятьма зірками</string>
     <string name="spread_btn_share">Поділіться посиланням на програму з другом</string>
-    <string name="spread_share_title">Погляньте на додаток</string>
+    <string name="spread_share_title">Подивись на додаток</string>
     <string name="settings_premium_what_included_9">Перемикання каналів шляхом введення номера каналу</string>
-    <string name="settings_channel_sort_mode_numb">номер (за номером каналу, можна змінити)</string>
+    <string name="settings_channel_sort_mode_numb">номером (за номером каналу, можна змінити)</string>
     <string name="ch_opt_change_number">Змінити номер</string>
     <string name="prov_btn_help">Довідка</string>
-    <string name="prov_help_telegram">Приєднайтеся до чату в телеграмі</string>
-    <string name="settings_premium_what_included_5">Немає оголошень</string>
-    <string name="invalid_domain">Можливо, домен недійсний. Перевірте свій вхід</string>
+    <string name="prov_help_telegram">Приєднайтеся до чату в Телеграм</string>
+    <string name="settings_premium_what_included_5">Без реклами</string>
+    <string name="invalid_domain">Імовірно домен недійсний. Перевірте налаштування</string>
     <string name="example">Приклад</string>
-    <string name="provider_generic">Загальний постачальник або список відтворення</string>
+    <string name="provider_generic">Типовий постачальник або список відтворення</string>
     <string name="watched">Переглянуто:</string>
     <string name="btn_search">Пошук</string>
-    <string name="premium_fea_6">Надіслати потік до бездротового дисплея</string>
-    <string name="wifi_display">Бездротовий дисплей</string>
+    <string name="premium_fea_6">Надіслати потік на безпровідний дисплей</string>
+    <string name="wifi_display">Безпровідний дисплей</string>
     <string name="wifi_display_desc">Відтворити потік на іншому пристрої</string>
 
     <string name="cfg_play_action_pp">призупинити або відновити відтворення</string>
@@ -250,76 +250,76 @@
     <string name="cfg_play_action_btn_green">Дія для зеленої кнопки</string>
     <string name="cfg_play_action_btn_yellow">Дія для жовтої кнопки</string>
     <string name="cfg_play_action_btn_blue">Дія для синьої кнопки</string>
-    <string name="map_channel_to_epg">Карта каналу до EPG</string>
-    <string name="map_channel_to_epg_after">Зміни будуть застосовані до наступного перезавантаження телегідного телеканалу EPG.</string>
-    <string name="cfg_play_action_vol_d">зменшення гучності</string>
-    <string name="cfg_play_action_vol_u">збільшити обсяг</string>
-    <string name="cfg_ext_player_auto">Програвач за промовчанням</string>
-    <string name="cfg_ext_player_chooser">Кожен раз вибирайте вручну</string>
+    <string name="map_channel_to_epg">Прив'язати канал до EPG</string>
+    <string name="map_channel_to_epg_after">Зміни застосуються з наступним перезавантаженням телепрограми EPG.</string>
+    <string name="cfg_play_action_vol_d">зменшити гучность</string>
+    <string name="cfg_play_action_vol_u">збільшити гучність</string>
+    <string name="cfg_ext_player_auto">Системний програвач за замовчанням</string>
+    <string name="cfg_ext_player_chooser">Щоразу обирайте вручну</string>
     <string name="btn_close">Закрити</string>
-    <string name="prem_sub_add_3m">Підписатися (виставляється рахунок кожні 3 місяці)</string>
-    <string name="prem_sub_add_1y">Підписатися (щорічно виставляється рахунок)</string>
+    <string name="prem_sub_add_3m">Підписатись (оплата раз у 3 місяці)</string>
+    <string name="prem_sub_add_1y">Підписатись (щорічна оплата)</string>
     <string name="premium_fea_pvsearch">Голосовий пошук під час перегляду. Пошук каналу за назвою або вмістом архіву.</string>
     <string name="cfg_play_action_vsearch">голосовий пошук</string>
     <string name="settings_premium_source_enabled">Преміум увімкнено</string>
-    <string name="cfg_play_action_mute">відключення звуку</string>
-    <string name="cfg_play_action_unbind">не обробляти (зберігати поведінку системи)</string>
-    <string name="settings_codec_auto">кодек для постачальника</string>
-    <string name="cfg_ign_last_codec">не пам\'ятаю останній кодек, який використовується для відтворення каналу</string>
-    <string name="btn_schedule_epg">графік перезавантаження EPG</string>
-    <string name="err_archive_is_shorter">Архів для цього каналу має менший термін служби вашого постачальника</string>
+    <string name="cfg_play_action_mute">вимкнути звук</string>
+    <string name="cfg_play_action_unbind">не обробляти (залишити системну поведінку)</string>
+    <string name="settings_codec_auto">кодек за замовчанням для постачальника послуг</string>
+    <string name="cfg_ign_last_codec">не запам'ятовувати останній використаний для каналу кодек</string>
+    <string name="btn_schedule_epg">запланувати перезавантаження EPG</string>
+    <string name="err_archive_is_shorter">Архів для цього каналу доступний на менший час у вашого постачальника</string>
     <string name="cfg_section_backup">Резервне копіювання і відновлення</string>
     <string name="btn_backup_info">Резервне копіювання зберігається ключем. Запишіть його, як тільки резервне копіювання буде завершено. Немає гарантії того, як довго буде доступна резервна копія.</string>
     <string name="btn_backup_data">Резервне копіювання поточної конфігурації</string>
-    <string name="btn_backup_load">Завантажте резервну копію конфігурації</string>
-    <string name="err_need_newer_android">Для цієї функції потрібна нова версія Android</string>
-    <string name="cfg_play_action_sys_pip">Увійдіть у режим PiP системи</string>
-    <string name="cfg_video_cutout">Приховати верхній і нижній рядки відео (у пікселях)</string>
-    <string name="cfg_video_retry">Час для повторного завантаження відео, коли сталася помилка</string>
-    <string name="cfg_play_action_2live">Перейти до поточної трансляції поточного каналу</string>
-    <string name="player_menu_2live">Перейдіть у режим живого</string>
+    <string name="btn_backup_load">Завантажити резервну копію конфігурації</string>
+    <string name="err_need_newer_android">Для цієї функції потрібна новіша версія Android</string>
+    <string name="cfg_play_action_sys_pip">Увійдіть у системний режим PiP</string>
+    <string name="cfg_video_cutout">Приховувати верхню та нижню смуги відео (у пікселях)</string>
+    <string name="cfg_video_retry">Скільки разів намагатись повторно завантажувати відео у випадку помилки</string>
+    <string name="cfg_play_action_2live">Увімкнути поточний канал наживо</string>
+    <string name="player_menu_2live">Перемнути наживо</string>
 
-    <string name="btn_seek">Шукати</string>
-    <string name="cfg_play_action_mseek">Починає перегляд відео</string>
-    <string name="menu_exit">Вхід</string>
-    <string name="hint_try_premium_sub_free">Ви можете спробувати підписку один раз безкоштовно протягом декількох днів, приймаючи рішення про те, як його використовувати, чи ні. Перевірте деталі пакетів передплати.</string>
+    <string name="btn_seek">Перемотати</string>
+    <string name="cfg_play_action_mseek">Запустити екран перемотування відео</string>
+    <string name="menu_exit">Вихід</string>
+    <string name="hint_try_premium_sub_free">Ви можете спробувати підписку одного разу безкоштовно на декілька днів, щоб вирішити чи потрібна вона вам. Перегляньте деталі пакетів передплати.</string>
     
-    <string name="premium_fea_pre_vid">Показати опис вибраного відео в описі</string>
-    <string name="vp_audio_shift">Зміна звуку</string>
-    <string name="vp_audio_shift_desc">Синхронізувати аудіо з відео</string>
+    <string name="premium_fea_pre_vid">Показувати попередній перегляд обраного відео в описі</string>
+    <string name="vp_audio_shift">Зсув звуку</string>
+    <string name="vp_audio_shift_desc">Синхронізувати звук з відео</string>
     <string name="cfg_next_n_desc">Скільки наступних телепрограм показуватиметься в описі каналу</string>
     <string name="cfg_codec_details_title">Налаштування параметрів кодеків</string>
-    <string name="cfg_codec_vlc_q">Якість кодека VLC</string>
-    <string name="profile_speed_q">віддають перевагу швидкості</string>
-    <string name="profile_middle_q">віддають перевагу якості над швидкістю</string>
-    <string name="profile_high_q">тільки якість має значення</string>
+    <string name="cfg_codec_vlc_q">якість кодека VLC</string>
+    <string name="profile_speed_q">обрана швидкість</string>
+    <string name="profile_middle_q">надавати перевагу якості перед швидкістю</string>
+    <string name="profile_high_q">найкраща якість</string>
     <string name="channel_move_cat">Змінити категорію</string>
     <string name="channel_move_new_cat">Створити нову категорію</string>
-    <string name="premium_fea_edit_list">Дозволяє редагувати категорії, ховати канали тощо</string>
+    <string name="premium_fea_edit_list">Дозволяє редагувати категорії, приховувати канали тощо</string>
     <string name="prov_help_bug">Повідомити про проблему або помилку</string>
-    <string name="prov_help_tpl">Випуск шаблону постачальника звітів</string>
+    <string name="prov_help_tpl">Повідомити про проблему шаблону постачальника послуг</string>
     <string name="prov_help_feature">Запропонувати нову функцію</string>
-    <string name="prov_help_premium">Повідомити про проблему з платежами або премією</string>
+    <string name="prov_help_premium">Повідомити про проблему з платежами або преміумом</string>
     <string name="prov_help_contact_via_chat">зверніться до розробника через чат</string>
     <string name="prov_help_contact_via_email">зверніться до розробника електронною поштою</string>
     <string name="prov_help_provide_more_info">Напишіть своє повідомлення розробнику</string>
-    <string name="cfg_time_imp">Використовувати імперський формат часу (am / pm)</string>
-    <string name="hud_short_seeking">Шукаю</string>
+    <string name="cfg_time_imp">Використовувати імперський формат часу (am/pm)</string>
+    <string name="hud_short_seeking">Перемотка</string>
     <string name="cfg_player_clock_tr">верхній правий кут</string>
-    <string name="cfg_player_clock_br">у правому нижньому куті</string>
+    <string name="cfg_player_clock_br">нижній правий кут</string>
     <string name="cfg_player_clock_bl">нижній лівий кут</string>
     <string name="cfg_player_clock_tl">верхній лівий кут</string>
-    <string name="cat_vr_continue">Продовжуйте перегляд</string>
-    <string name="cat_vr_continue_prem">Нещодавно переглянуті відео, доступні зараз</string>
+    <string name="cat_vr_continue">Продовжити перегляд</string>
+    <string name="cat_vr_continue_prem">Нещодавно переглянуте відео доступне зараз</string>
     <string name="premium_fea_continue">Показує всі нещодавно переглянуті відео, які наразі доступні у фільтрі Продовжити</string>
-    <string name="menu_swap_pip_sound">Змініть звук між головним екраном і PiP</string>
-    <string name="premium_fea_pre_vid_wp">Дозволити перегляд відео під час відтворення іншого відео</string>
+    <string name="menu_swap_pip_sound">Перемкнути звук між основним екраном і PiP</string>
+    <string name="premium_fea_pre_vid_wp">Дозволити попередній перегляд відео під час відтворення іншого відео</string>
     <string name="hint_click_icon">Натискання піктограми каналу або групи відкриває контекстне меню (якщо доступно).</string>
     <string name="hint_right_jump">Натискання правої кнопки в більшості алфавітно-відсортованих списків відкриває швидкий перехід.</string>
-    <string name="category_recent_channels">Останні</string>
+    <string name="category_recent_channels">Нещодавні</string>
     <string name="category_all_channels">Всі канали</string>
-    <string name="cfg_no_categories">Використовувати список звичайних каналів (без категорій)</string>
-    <string name="cfg_section_desc">Опис товару</string>
+    <string name="cfg_no_categories">Використовувати простий список каналів (без категорій)</string>
+    <string name="cfg_section_desc">Опис елемента</string>
     <string name="cfg_section_lists">Параметри списків</string>
 
     <string name="cfg_no_hints">Не показувати підказки</string>
